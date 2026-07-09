@@ -1,0 +1,1 @@
+print("my name is (sid) am from  {india} and my weight is 65.5")
