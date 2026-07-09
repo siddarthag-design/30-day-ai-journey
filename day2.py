@@ -1,6 +1,1 @@
-x=90
-if x<90:
-    print("average student")
-
-else:
-    print("pass")
+print((2+3) /(1+2))
