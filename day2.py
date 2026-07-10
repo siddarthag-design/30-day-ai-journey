@@ -1,9 +1,9 @@
-x=1
-if x==1:
-    print(1)
+age =int(input("Enter your age: "))
+if age <5:
+    print("ITS FREE")
 
-elif x==2:
-    print(2)
+elif age<18:
+    print("it cost 5cad$")
 
 else:
-    print('came out')
+    print("it cost 10cad$")
