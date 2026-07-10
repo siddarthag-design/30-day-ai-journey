@@ -1,9 +1,9 @@
-x=int(input('enter a number')  )
-if x<0:
-    print('negayive')
+x=1
+if x==1:
+    print(1)
 
-elif x>0:
-    print('positive')
+elif x==2:
+    print(2)
 
 else:
-    print('zerooo')
+    print('came out')
