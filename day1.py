@@ -1,1 +1,3 @@
-print("my name is (sid) am from  {india} and my weight is 65.5")
+shopping ="costco"
+pharmacy="pharmacyst"
+print("i went to {shopping} first after that i went to see {pharmacyst}")
